@@ -6,3 +6,4 @@ openai==0.27.6
 pandas==2.0.1
 plotly==5.14.1
 tweety-ns==0.7.1
+streamlit==1.22.0
